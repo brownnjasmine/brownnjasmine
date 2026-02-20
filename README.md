@@ -1,5 +1,13 @@
 ## Hi there 👋
 
+My name is Jasmine, and I'm a developer and artist based in Denver!
+
+I specialize in practical and fun applications with a girly twist 🎀
+
+I'm currently learning Electron to create a women's health app that runs directly on your device!
+
+My hobbies are coding, drawing/painting, reading, and sculpting
+
 <!--
 **brownnjasmine/brownnjasmine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
