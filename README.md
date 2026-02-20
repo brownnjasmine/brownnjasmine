@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello! 👋
 
 My name is Jasmine, and I'm a developer and artist based in Denver!
 
